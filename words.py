@@ -1,0 +1,33 @@
+# Basic level - single words
+basic_words = [
+    "PYTHON", "JAVA", "SWIFT", "KOTLIN", "JAVASCRIPT",
+    "HTML", "CSS", "SQL", "RUBY", "GOLANG",
+    "CODE", "DEBUG", "SERVER", "CLIENT", "DATABASE",
+    "ALGORITHM", "FUNCTION", "VARIABLE", "COMPILER", "INTERPRETER",
+    "LOOP", "ARRAY", "OBJECT", "CLASS", "METHOD",
+    "GAMING", "CODING", "PROGRAM", "SOFTWARE", "HARDWARE"
+]
+
+# Intermediate level - phrases (using underscores for spaces)
+intermediate_phrases = [
+    "HELLO_WORLD",
+    "OBJECT_ORIENTED",
+    "VERSION_CONTROL",
+    "UNIT_TESTING",
+    "TEST_DRIVEN_DEVELOPMENT",
+    "AGILE_METHODOLOGY",
+    "MACHINE_LEARNING",
+    "ARTIFICIAL_INTELLIGENCE",
+    "DATA_STRUCTURES",
+    "ALGORITHMIC_THINKING",
+    "SOFTWARE_ENGINEERING",
+    "WEB_DEVELOPMENT",
+    "MOBILE_APPLICATION",
+    "CLOUD_COMPUTING",
+    "CYBER_SECURITY",
+    "USER_EXPERIENCE",
+    "FRONTEND_DEVELOPMENT",
+    "BACKEND_DEVELOPMENT",
+    "FULL_STACK_DEVELOPER",
+    "DEV_OPS"
+]
